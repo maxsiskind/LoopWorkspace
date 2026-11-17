@@ -214,6 +214,7 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           now_line \
           meal_days \
+          basal_lock \
           2002 \
           watch_title
 
